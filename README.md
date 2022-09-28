@@ -2,7 +2,7 @@
 This is the official public repository for TFM - The Flipping Mod for Hypixel Skyblock
 
 
-[![Build Status](https://ci.thom.club/job/TFM%20Mod/job/master/badge/icon)](https://ci.thom.club/job/TFM%20Mod/job/master/) [![Discord](https://img.shields.io/discord/932106421338779709?label=discord&logo=Discord&logoColor=FFFFFF%22)](https://discord.gg/jS9qNkX4Pu)
+[![Build Status](https://ci.thom.club/job/TFM%20Mod/job/master/badge/icon)](https://ci.thom.club/job/TFM%20Mod/job/master/) [![Discord](https://img.shields.io/discord/888003916485230592?label=discord&logo=Discord&logoColor=FFFFFF%22)](https://discord.gg/jS9qNkX4Pu)
 
 --- 
 
